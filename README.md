@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently work in  **Django Blood Donation Website**
+- 🔭 I’m currently work in  **React website**
 
-- 🌱 I’m currently learning **React, and REST_API**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Django, JavaScript, (cyber Security) optional**
+- 💬 Ask me about **Django, JavaScript,**
 
 - 📫 How to reach me **pavankarofficial2001@gmail.com**
 
